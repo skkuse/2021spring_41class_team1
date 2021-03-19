@@ -1,0 +1,129 @@
+이성원: ㅇ여기 맞죠?
+
+안이은: 네 오늘 여기서 qa3.. discuss 진행하겠습니당
+
+안이은: 오늘은 8 10 12 13번 discuss하고 team-project 채널에서.. 얘기해보도록 해요..
+
+이성원: 넵
+
+정세린: 넵넵
+
+안이은: 8번 먼저 시작해볼게요!! 먼저..공유해주실분!
+
+이성원: Requirements와 system을 specificate했다면 소비자의 데이터로부터 어떤 데이 터를 출력해야 소비자의 니즈에 부합하는지 유추 가능하다. 따라서 acceptance test 를 plan할 수 있다. 또한 system specification과 system design을 통해 전체 시스템에 서 입렵에 대한 기대 출력값을 상정할 수 있고, 이를 통해 system integration test를 plan할 수 있다. 나아가 system design과 detailed design을 통해 system의 각 구조 내부 를 계획하므로 sub-system integration test를 plan할 수 있다.
+
+이성원: 라고 생각해봤습니다.
+
+안이은: 오 저도 비슷하게 적었습니다..
+
+Acceptance test는 사용자의 요구사항이 충족되는지 테스트하는 과정이므로 requirement specification에서 요구사항을 정리하고 특정할 때 test plan을 하는 것이 확인에 용이하다
+System integration test는 전체적인 system의 작동이 원활한지 테스트하는 과정이므로 전체적인 system architecture를 설계할 때 test plan을 하는 것이 용이하다.
+Sub-system integration test는 module등의 component들에 대한 testing이므로 detailed design에서 sub-system으로 나누는 등 component단위로 detail한 design을 할 때 plan을 세우는 것이 용이하다
+이렇게 생각했어요!
+
+박정인: 저도 같은 생각입니다!
+
+박정인: 원래 abstract 에서 detail 한 방향으로 계획을 짜니, 테스트 플랜은 역방향으로 쓰는 듯 합니다
+
+양유진: Acceptance test plan은 requirements specification 이후에, system integration test plan은 system specification 이후에, sub-system integration test plan은 system design 이후에 수행하는데
+test plan이 process 진행 과정을 반영해야하기 때문이라고 생각합니다
+
+정세린: 오 그렇게 생각할 수도 있겠네요
+
+정세린: 제가 영어로 답안을 적어서 ㅠㅠ
+
+정세린: Acceptance test should be planned after the requirements specification is done.
+It is planned at that time because since acceptance test is testing whether the developed SW meets the customer’s needs, it is necessary to specify the requirement specification of the system before planning acceptance test.
+System integration test should be planned after the system specification is done.
+It is planned at that time because system integration can be done after the system specification.
+Sub-system integration test plan should be planned after the system design and detailed design is done. It is planned at that time because the test handle with the system design and detailed design of each sub-system.
+Each test is processed after module and unit code and test. Sub-system integration test, then system integration test, and finally acceptance test.
+The V-shape process is carried out because it can be verified according to the initial specifications only when the test is conducted in reverse direction according to the plan specified in the forward direction.
+
+이성원: 음
+
+이성원: 좋은 의견인것 가타요
+
+이성원: *같아요
+
+박정인: 의견 다들 비슷하셔서 넘어가도 될것같아요!
+
+정세린: 저는 각 test plan들이계획된 순서와 반대로 실행되는 이우에 대해서는 깊게 생각해보지 못했는데, 유진님의 답안이 인상적입니다
+
+정세린: 헛 좋아용!!!
+
+양유진: 저는 이제 교수님이 수업에서 말씀하신것처럼 왜 acceptance test plan이 system integration test 이후가 아닌가가 초점이었던거 같아요
+
+김지훈: 초반 단계에서 세부 목표로 진행을 할때, 기존에 계획했던 내용들을 바탕으로 평가 요소를 미리 만들어 놈으로써 세부적인 평가를 가능하도록 기록해둔다
+
+이성원: 그리고 이 플랜을 세운다는 행위 자체가 최초에 subsystem으로 나누는 과정에서 되야하는 이유가 테스트 플랜을 세우는 행위 자체가 서브시스템으로 나누는 목적에 대한 milestone이 되는것도 있지 않나 싶어요
+
+이성원: 최종적으로는 전체 architecture에 대한 이해를 돕는 과정의 하나로 볼 수도 있을것같아요
+
+이성원: 덧붙여서 원래의 requirement에 대한 테스트 케이스를 만들기 위해선 requirement specification이 이뤄진 직후에, 목적이 분명할때 만드는게 명료하지 않나싶어요
+
+안이은: 좋은 의견이 많네요! 그럼 이제 10번으로 넘어가볼게요!
+
+양유진: Prototyping improves system usability, design quality and maintainability and also reduce development effort. Moreover, it can match closer to users’ real needs.
+When problem rise, it is easy to come up with new prototype to fix problem and improve maintainability.
+
+안이은: 이점은 자료에 잘 나와있더라구요.. System이 사용자의 needs를 잘 충족하는지 확인할 수 있고, design, maintainability, system usability등을 개선할 수 있으며, 개발 및 유지보수 지용을 줄일 수 있다.
+maintainability가 향상되는 이유는 사용자의 피드백을 통해 전체 시스템 구현 전 단계에서 customer의 feedback에 대한 수정 및 보완이 이루어질 수 있고, 결과적으로 실제 deploy이후에 유지보수 지용을 절감이 가능하게 된다.
+
+안이은: 이렇게 생각했습니다..
+
+이성원: 프로토타이핑은 최종 시스템이 더욱 유용하고, 소비자 요구에 부응하며, 디 자인이 좋고, 유지보수성 좋으며, 개발이 쉽게한다.
+이때 프로토타이핑은 유지보수성이 더욱 좋게 하는데, 그 이유는 프로토타입 의잦은공개를통해소비자와개발자간소통이원활하게되고, needs가더욱 developement에 반영될 가능성이 높아지기 때문이다.
+
+정세린: The benefits of prototyping is improved system usability, a closer match to user’s real needs, improved design quality, improved maintainability, and reduced development effort.
+Prototyping helps the system improve maintainability by focusing on more functional parts, and clarifying areas that were not clear.
+
+박정인: 1) improving system usability, 2) a closer match to users’ real needs, 3) improved design quality, 4) improved maintainability, 5) reduced development effort. 저도 이점 이렇게 간단하게 써봤습니다
+
+이성원: 이점에 대한 부분은 자료에 명확하게 나와있어서 별도로 언급할 요소는 없는것같아요
+
+김지훈: 더 많은 버그를 발견할 수 있어서 실제 서비스에서 버그의 양을 줄일 수 있고
+여러개의 프로토타입을 만들고 합치면, 나중에 확장성 문제를 줄일 수 있어요
+
+정세린: 내용이 다들 비슷한 것 같네요
+
+박정인: 네네 저도 버그에관련해서 생각했습니다
+
+이성원: 이 부분은 exploratory prototyping에 해당하는걸로 생각할수 있을것같아요
+
+안이은: 의견이 다들 비슷하신것 같아서 12번 discuss해볼게요!
+
+안이은: 모든 개발이 완료된 후에 Single delivery 형태로 이루어지는 것이 아니라 priority가 높은 순서대로 기존 기능에 requirements가 추가되는 형태로 delivery가 진행되므로 기존 기능을 사용하던 customer들의 feedback도 꾸준히 수용하고 수정할 수 있기 때문이라고 생각했습니다!
+
+양유진: Because highest priority services are testes over and over again as each increment is delivered.
+
+이성원: 완제품만 출시하는 single delivery와 다르게, increment delivery는 유저의 니즈 를 분석, 우선순위가 높은 부분들부터 increment 단위로 출시해나간다. 시스템의 완 성도만큼이나 유저가 완제품을 받아보는 시기또한 중요한 요소임을 고려하면 이 방법은중요한부분부터우선적으로제공하여, 결과물에대한만족도를높일수있다.
+
+박정인: this is because customers can check what is incremented and how developers and teams do and make software. Early increments act as a prototype also. And they can also evaluate often. Since customers check the software often, risk of failure decreases. 요약하면, 유저들이 항상 개발자들이 어떻게 개발을 하고 있는지 진행사항을 계속 체크할 수 있고, 때문에 failure 위험이 감소한다고 생각합니다
+
+안이은: 다들 좋은 의견 감사합니다..
+
+안이은: 마지막으로 13번 얘기해볼게요!
+
+안이은: 저는
+Time과 cost가 inadequate하므로 모든 Input을 test하기에는 무리가 있다. 기존에 있는 비슷한 system의 input statistics를 분석하여 평균적으로 많은 분포를 차지하는 input을 testing sample로 채택할 수 있지 않을까... 이렇게 생각해봤습니다
+
+양유진: Using statistical testing, we can measure reliability without total inspection rather, testing the software with just few samples (cases).
+
+정세린: Using existing available and meaningful statistics, a test case can be made to verify that the system is correct, centered on the errors that can occur in the actual operation, thereby satisfying the customer's need in limited goods and time.
+
+박정인: 유저들이 주로 사용할만한 가능한 시나리오를 사용해서 반복적으로 테스팅 하는것이 좋다고 생각했습니다
+
+이성원: 테스트를 적게 하면서 완벽하게 테스트하는건 불가능하다. 그러므로 좀 더 간결하며 믿을 수 있는 테스팅이 필요하다. 클린룸 SW개발 모델에서는 통계적 방 법을 테스팅에 활용하는데, 사용자가 소프트웨어를 활용하는 방식에 대해 확률분 포로 나타내고, 이로부터 통계적 방법을 이용해 유저와 유사한 테스트케이스를 얻 어내어 실행하면, 사용분포가 더 많은 부분에 대해 더욱 정밀히 검사가 가능할 것이 다.
+
+안이은: 혹시 추가적으로 공유해주실 의견 있으신가요??
+
+김지훈: 조사를 함으로써 통계적으로 많은 영향을 주는 부분에 대해서 주로 test를 많이 하고 통계적으로 적은 영향을 주는 부분에 대해서는 test를 줄이며,
+통계적으로 큰것들의 기준을 정해두고, 그 기준만 통과하면, test를 종료한다
+
+안이은: 앗 감사합니다..
+
+안이은: 그럼 오늘의 discussion은 여기서.. 마치도록 할게요!!
+
+안이은: 다들 고생많으셨습니다.. 이제 team-project 채널에서..만나요..
+

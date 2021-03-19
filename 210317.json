@@ -1,0 +1,2236 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615985569.000200",
+        "user": "U01QPF0KJ77",
+        "text": "<@U01QPF0KJ77> 님이 채널에 참여함"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1615985570.000300",
+        "user": "U01QPF0KJ77",
+        "text": "<@U01QPF0KJ77> 님이 채널 목적(3\/17) 설정함",
+        "purpose": "3\/17"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615985572.000500",
+        "user": "U01QBGBRH6K",
+        "text": "<@U01QBGBRH6K> 님이 채널에 참여함",
+        "inviter": "U01QPF0KJ77"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615985573.000700",
+        "user": "U01QBGLB57Z",
+        "text": "<@U01QBGLB57Z> 님이 채널에 참여함",
+        "inviter": "U01QPF0KJ77"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615985573.000900",
+        "user": "U01QKQ7KJ2J",
+        "text": "<@U01QKQ7KJ2J> 님이 채널에 참여함",
+        "inviter": "U01QPF0KJ77"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615985573.001100",
+        "user": "U01QS9C5DUJ",
+        "text": "<@U01QS9C5DUJ> 님이 채널에 참여함",
+        "inviter": "U01QPF0KJ77"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615985573.001300",
+        "user": "U01QYLF09FE",
+        "text": "<@U01QYLF09FE> 님이 채널에 참여함",
+        "inviter": "U01QPF0KJ77"
+    },
+    {
+        "client_msg_id": "dd5fec47-1092-432c-b78e-6a1908bf0b7d",
+        "type": "message",
+        "text": "ㅇ여기 맞죠?",
+        "user": "U01QYLF09FE",
+        "ts": "1615986081.001600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXy17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ㅇ여기 맞죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ea2bb6a-c26c-4356-ba50-d0a0f37ad8a4",
+        "type": "message",
+        "text": "네 오늘 여기서 qa3.. discuss 진행하겠습니당",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615986202.002000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KCS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 오늘 여기서 qa3.. discuss 진행하겠습니당"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e68d9e9-baa7-48f0-9fad-ae4fbfe0f5fb",
+        "type": "message",
+        "text": "오늘은 8 10 12 13번 discuss하고 team-project 채널에서.. 얘기해보도록 해요..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615986301.002700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8Bn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘은 8 10 12 13번 discuss하고 team-project 채널에서.. 얘기해보도록 해요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09b6df24-378b-41fa-a2c0-5136ddbef70e",
+        "type": "message",
+        "text": "넵",
+        "user": "U01QYLF09FE",
+        "ts": "1615986317.003100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MjwDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "117231E3-640E-4A0E-869C-E4C0732FB151",
+        "type": "message",
+        "text": "넵넵",
+        "user": "U01QBGLB57Z",
+        "ts": "1615986322.003200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bd8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵넵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "767bbe88-e7eb-4489-af20-da036e14504a",
+        "type": "message",
+        "text": "8번 먼저 시작해볼게요!! 먼저..공유해주실분!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615986357.003600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i0nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8번 먼저 시작해볼게요!! 먼저..공유해주실분!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c5bbf5f-b110-4344-91e4-167d80773665",
+        "type": "message",
+        "text": "Requirements와 system을 specificate했다면 소비자의 데이터로부터 어떤 데이 터를 출력해야 소비자의 니즈에 부합하는지 유추 가능하다. 따라서 acceptance test 를 plan할 수 있다. 또한 system specification과 system design을 통해 전체 시스템에 서 입렵에 대한 기대 출력값을 상정할 수 있고, 이를 통해 system integration test를 plan할 수 있다. 나아가 system design과 detailed design을 통해 system의 각 구조 내부 를 계획하므로 sub-system integration test를 plan할 수 있다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615986380.004800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BgwQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Requirements와 system을 specificate했다면 소비자의 데이터로부터 어떤 데이 터를 출력해야 소비자의 니즈에 부합하는지 유추 가능하다. 따라서 acceptance test 를 plan할 수 있다. 또한 system specification과 system design을 통해 전체 시스템에 서 입렵에 대한 기대 출력값을 상정할 수 있고, 이를 통해 system integration test를 plan할 수 있다. 나아가 system design과 detailed design을 통해 system의 각 구조 내부 를 계획하므로 sub-system integration test를 plan할 수 있다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "670bafa9-efe8-4378-bdc6-72a14d3ce420",
+        "type": "message",
+        "text": "라고 생각해봤습니다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615986384.005100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Cm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "라고 생각해봤습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4102fae-7677-4063-b312-8ff843afd52c",
+        "type": "message",
+        "text": "오 저도 비슷하게 적었습니다..\n\nAcceptance test는 사용자의 요구사항이 충족되는지 테스트하는 과정이므로 requirement specification에서 요구사항을 정리하고 특정할 때 test plan을 하는 것이 확인에 용이하다\nSystem integration test는 전체적인 system의 작동이 원활한지 테스트하는 과정이므로 전체적인 system architecture를 설계할 때 test plan을 하는 것이 용이하다.\nSub-system integration test는 module등의 component들에 대한 testing이므로 detailed design에서 sub-system으로 나누는 등 component단위로 detail한 design을 할 때 plan을 세우는 것이 용이하다\n이렇게 생각했어요!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615986424.006400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yI1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오 저도 비슷하게 적었습니다..\n\nAcceptance test는 사용자의 요구사항이 충족되는지 테스트하는 과정이므로 requirement specification에서 요구사항을 정리하고 특정할 때 test plan을 하는 것이 확인에 용이하다\nSystem integration test는 전체적인 system의 작동이 원활한지 테스트하는 과정이므로 전체적인 system architecture를 설계할 때 test plan을 하는 것이 용이하다.\nSub-system integration test는 module등의 component들에 대한 testing이므로 detailed design에서 sub-system으로 나누는 등 component단위로 detail한 design을 할 때 plan을 세우는 것이 용이하다\n이렇게 생각했어요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d3ecc48-e99d-4f23-ab25-1468b7b2d711",
+        "type": "message",
+        "text": "저도 같은 생각입니다!",
+        "user": "U01QBGBRH6K",
+        "ts": "1615986433.006900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jeg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 같은 생각입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8249b628-46ce-444f-87b4-ec8bf63c20ea",
+        "type": "message",
+        "text": "원래 abstract 에서 detail 한 방향으로 계획을 짜니, 테스트 플랜은 역방향으로 쓰는 듯 합니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615986474.008900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZnLFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "원래 abstract 에서 detail 한 방향으로 계획을 짜니, 테스트 플랜은 역방향으로 쓰는 듯 합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87ab2e0e-98c1-4035-96e1-d8b723b78bc2",
+        "type": "message",
+        "text": "Acceptance test plan은 requirements specification 이후에, system integration test plan은 system specification 이후에, sub-system integration test plan은 system design 이후에 수행하는데\ntest plan이 process 진행 과정을 반영해야하기 때문이라고 생각합니다",
+        "user": "U01QPF0KJ77",
+        "ts": "1615986540.012300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Acceptance test plan은 requirements specification 이후에, system integration test plan은 system specification 이후에, sub-system integration test plan은 system design 이후에 수행하는데\ntest plan이 process 진행 과정을 반영해야하기 때문이라고 생각합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4958A99B-87BF-4183-BCF1-40245C5C5F52",
+        "type": "message",
+        "text": "오 그렇게 생각할 수도 있겠네요",
+        "user": "U01QBGLB57Z",
+        "ts": "1615986573.013200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/ika",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오 그렇게 생각할 수도 있겠네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79C47491-AE65-464A-A105-4E5B71B0A06B",
+        "type": "message",
+        "text": "제가 영어로 답안을 적어서 ㅠㅠ",
+        "user": "U01QBGLB57Z",
+        "ts": "1615986580.013600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 영어로 답안을 적어서 ㅠㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58EFD38F-4738-47FF-853B-9E54E29CB288",
+        "type": "message",
+        "text": "Acceptance test should be planned after the requirements specification is done.\nIt is planned at that time because since acceptance test is testing whether the developed SW meets the customer’s needs, it is necessary to specify the requirement specification of the system before planning acceptance test.\nSystem integration test should be planned after the system specification is done.\nIt is planned at that time because system integration can be done after the system specification.\nSub-system integration test plan should be planned after the system design and detailed design is done. It is planned at that time because the test handle with the system design and detailed design of each sub-system.\nEach test is processed after module and unit code and test. Sub-system integration test, then system integration test, and finally acceptance test.\nThe V-shape process is carried out because it can be verified according to the initial specifications only when the test is conducted in reverse direction according to the plan specified in the forward direction.",
+        "user": "U01QBGLB57Z",
+        "ts": "1615986588.013900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0lSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Acceptance test should be planned after the requirements specification is done.\nIt is planned at that time because since acceptance test is testing whether the developed SW meets the customer’s needs, it is necessary to specify the requirement specification of the system before planning acceptance test.\nSystem integration test should be planned after the system specification is done.\nIt is planned at that time because system integration can be done after the system specification.\nSub-system integration test plan should be planned after the system design and detailed design is done. It is planned at that time because the test handle with the system design and detailed design of each sub-system.\nEach test is processed after module and unit code and test. Sub-system integration test, then system integration test, and finally acceptance test.\nThe V-shape process is carried out because it can be verified according to the initial specifications only when the test is conducted in reverse direction according to the plan specified in the forward direction."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e92a27d2-0f06-4eb5-963b-24442dffb73d",
+        "type": "message",
+        "text": "음",
+        "user": "U01QYLF09FE",
+        "ts": "1615986616.014800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "음"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d860004b-2b31-49bb-8552-9cffd16d69a2",
+        "type": "message",
+        "text": "좋은 의견인것 가타요",
+        "user": "U01QYLF09FE",
+        "ts": "1615986619.015300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=4LZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋은 의견인것 가타요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "506b08f0-d14a-48d7-be0d-9b7c3d17d120",
+        "type": "message",
+        "text": "*같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615986623.015700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBeQ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e970065-7956-417d-ac61-fab358adfb04",
+        "type": "message",
+        "text": "의견 다들 비슷하셔서 넘어가도 될것같아요!",
+        "user": "U01QBGBRH6K",
+        "ts": "1615986629.016200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VCLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "의견 다들 비슷하셔서 넘어가도 될것같아요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B9C75097-02A4-4017-989A-1606EB9308A3",
+        "type": "message",
+        "text": "저는 각 test plan들이계획된 순서와 반대로 실행되는 이우에 대해서는 깊게 생각해보지 못했는데, 유진님의 답안이 인상적입니다",
+        "user": "U01QBGLB57Z",
+        "ts": "1615986653.017000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uzp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 각 test plan들이계획된 순서와 반대로 실행되는 이우에 대해서는 깊게 생각해보지 못했는데, 유진님의 답안이 인상적입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D00804AD-18FA-4041-82BA-1B04CAFE0B28",
+        "type": "message",
+        "text": "헛 좋아용!!!",
+        "user": "U01QBGLB57Z",
+        "ts": "1615986665.017200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "az6W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "헛 좋아용!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44ca8ef4-6367-47cb-bfa2-d81bcf0c10f2",
+        "type": "message",
+        "text": "저는 이제 교수님이 수업에서 말씀하신것처럼 왜 acceptance test plan이 system integration test 이후가 아닌가가 초점이었던거 같아요",
+        "user": "U01QPF0KJ77",
+        "ts": "1615986932.017900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 이제 교수님이 수업에서 말씀하신것처럼 왜 acceptance test plan이 system integration test 이후가 아닌가가 초점이었던거 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b2f0c67-a5b6-4f39-9021-810f3353fbe4",
+        "type": "message",
+        "text": "초반 단계에서 세부 목표로 진행을 할때, 기존에 계획했던 내용들을 바탕으로 평가 요소를 미리 만들어 놈으로써 세부적인 평가를 가능하도록 기록해둔다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615987090.019500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6H0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "초반 단계에서 세부 목표로 진행을 할때, 기존에 계획했던 내용들을 바탕으로 평가 요소를 미리 만들어 놈으로써 세부적인 평가를 가능하도록 기록해둔다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecce0cec-e2f7-4d3e-b491-120c9b3638ef",
+        "type": "message",
+        "text": "그리고 이 플랜을 세운다는 행위 자체가 최초에 subsystem으로 나누는 과정에서 되야하는 이유가 테스트 플랜을 세우는 행위 자체가 서브시스템으로 나누는 목적에 대한 milestone이 되는것도 있지 않나 싶어요",
+        "user": "U01QYLF09FE",
+        "ts": "1615987115.019900",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x2Wk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그리고 이 플랜을 세운다는 행위 자체가 최초에 subsystem으로 나누는 과정에서 되야하는 이유가 테스트 플랜을 세우는 행위 자체가 서브시스템으로 나누는 목적에 대한 milestone이 되는것도 있지 않나 싶어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63cfaf0e-371a-4c7d-b3f4-65eb38527903",
+        "type": "message",
+        "text": "최종적으로는 전체 architecture에 대한 이해를 돕는 과정의 하나로 볼 수도 있을것같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615987144.020500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m8TKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최종적으로는 전체 architecture에 대한 이해를 돕는 과정의 하나로 볼 수도 있을것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df889fde-46ef-45f9-b9c8-69c382b46656",
+        "type": "message",
+        "text": "덧붙여서 원래의 requirement에 대한 테스트 케이스를 만들기 위해선 requirement specification이 이뤄진 직후에, 목적이 분명할때 만드는게 명료하지 않나싶어요",
+        "user": "U01QYLF09FE",
+        "ts": "1615987225.021500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "덧붙여서 원래의 requirement에 대한 테스트 케이스를 만들기 위해선 requirement specification이 이뤄진 직후에, 목적이 분명할때 만드는게 명료하지 않나싶어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47037947-305d-431d-9b0b-65b267326f4a",
+        "type": "message",
+        "text": "좋은 의견이 많네요! 그럼 이제 10번으로 넘어가볼게요!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615987377.022100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1DGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "좋은 의견이 많네요! 그럼 이제 10번으로 넘어가볼게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7cc32398-2038-44cc-96cc-b165373f7aeb",
+        "type": "message",
+        "text": "Prototyping improves system usability, design quality and maintainability and also reduce development effort. Moreover, it can match closer to users’ real needs.\nWhen problem rise, it is easy to come up with new prototype to fix problem and improve maintainability.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615987398.022300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Prototyping improves system usability, design quality and maintainability and also reduce development effort. Moreover, it can match closer to users’ real needs.\nWhen problem rise, it is easy to come up with new prototype to fix problem and improve maintainability."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb7539c0-a842-431c-b7aa-931b485ce7eb",
+        "type": "message",
+        "text": "이점은 자료에 잘 나와있더라구요.. System이 사용자의 needs를 잘 충족하는지 확인할 수 있고, design, maintainability, system usability등을 개선할 수 있으며, 개발 및 유지보수 지용을 줄일 수 있다.\nmaintainability가 향상되는 이유는 사용자의 피드백을 통해 전체 시스템 구현 전 단계에서 customer의 feedback에 대한 수정 및 보완이 이루어질 수 있고, 결과적으로 실제 deploy이후에 유지보수 지용을 절감이 가능하게 된다.",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615987428.023800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3oT8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이점은 자료에 잘 나와있더라구요.. System이 사용자의 needs를 잘 충족하는지 확인할 수 있고, design, maintainability, system usability등을 개선할 수 있으며, 개발 및 유지보수 지용을 줄일 수 있다.\nmaintainability가 향상되는 이유는 사용자의 피드백을 통해 전체 시스템 구현 전 단계에서 customer의 feedback에 대한 수정 및 보완이 이루어질 수 있고, 결과적으로 실제 deploy이후에 유지보수 지용을 절감이 가능하게 된다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c86b4395-ccbf-404f-b63f-11d3baa1f925",
+        "type": "message",
+        "text": "이렇게 생각했습니다..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615987431.024300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이렇게 생각했습니다.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69be6e2e-d13c-4010-819a-4854317cf677",
+        "type": "message",
+        "text": "프로토타이핑은 최종 시스템이 더욱 유용하고, 소비자 요구에 부응하며, 디 자인이 좋고, 유지보수성 좋으며, 개발이 쉽게한다.\n이때 프로토타이핑은 유지보수성이 더욱 좋게 하는데, 그 이유는 프로토타입 의잦은공개를통해소비자와개발자간소통이원활하게되고, needs가더욱 developement에 반영될 가능성이 높아지기 때문이다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615987440.024500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로토타이핑은 최종 시스템이 더욱 유용하고, 소비자 요구에 부응하며, 디 자인이 좋고, 유지보수성 좋으며, 개발이 쉽게한다.\n이때 프로토타이핑은 유지보수성이 더욱 좋게 하는데, 그 이유는 프로토타입 의잦은공개를통해소비자와개발자간소통이원활하게되고, needs가더욱 developement에 반영될 가능성이 높아지기 때문이다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e477e51d-ca31-4538-9e30-d3b089ef8834",
+        "type": "message",
+        "text": "The benefits of prototyping is improved system usability, a closer match to user’s real needs, improved design quality, improved maintainability, and reduced development effort.\nPrototyping helps the system improve maintainability by focusing on more functional parts, and clarifying areas that were not clear.",
+        "user": "U01QBGLB57Z",
+        "ts": "1615987442.024700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The benefits of prototyping is improved system usability, a closer match to user’s real needs, improved design quality, improved maintainability, and reduced development effort.\nPrototyping helps the system improve maintainability by focusing on more functional parts, and clarifying areas that were not clear."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2656ef5-e378-46e0-a3d7-0343352d8956",
+        "type": "message",
+        "text": "1) improving system usability, 2) a closer match to users’ real needs, 3) improved design quality, 4) improved maintainability, 5) reduced development effort. 저도 이점 이렇게 간단하게 써봤습니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615987452.025500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+jT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1) improving system usability, 2) a closer match to users’ real needs, 3) improved design quality, 4) improved maintainability, 5) reduced development effort. 저도 이점 이렇게 간단하게 써봤습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b12ab3d-1707-4b7f-ac43-1479e33bf94a",
+        "type": "message",
+        "text": "이점에 대한 부분은 자료에 명확하게 나와있어서 별도로 언급할 요소는 없는것같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615987464.026400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLiZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이점에 대한 부분은 자료에 명확하게 나와있어서 별도로 언급할 요소는 없는것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "681e9c10-fb6f-468a-9e41-5b40651610bc",
+        "type": "message",
+        "text": "더 많은 버그를 발견할 수 있어서 실제 서비스에서 버그의 양을 줄일 수 있고\n여러개의 프로토타입을 만들고 합치면, 나중에 확장성 문제를 줄일 수 있어요",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615987479.027000",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bxe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "더 많은 버그를 발견할 수 있어서 실제 서비스에서 버그의 양을 줄일 수 있고\n여러개의 프로토타입을 만들고 합치면, 나중에 확장성 문제를 줄일 수 있어요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615987479.027000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1615987618.027700",
+        "reply_users": [
+            "U01QYLF09FE"
+        ],
+        "replies": [
+            {
+                "user": "U01QYLF09FE",
+                "ts": "1615987618.027700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "72a65d18-0702-4a91-ab83-766554a7d294",
+        "type": "message",
+        "text": "내용이 다들 비슷한 것 같네요",
+        "user": "U01QBGLB57Z",
+        "ts": "1615987486.027300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dXMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내용이 다들 비슷한 것 같네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59789c5a-cf9d-4b32-b515-bb97e1b37f55",
+        "type": "message",
+        "text": "네네 저도 버그에관련해서 생각했습니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615987496.027600",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YwpSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네 저도 버그에관련해서 생각했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02d9743b-5703-47d3-81e4-a96ed7c6a2ff",
+        "type": "message",
+        "text": "이 부분은 exploratory prototyping에 해당하는걸로 생각할수 있을것같아요",
+        "user": "U01QYLF09FE",
+        "ts": "1615987618.027700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pl4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이 부분은 exploratory prototyping에 해당하는걸로 생각할수 있을것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615987479.027000",
+        "parent_user_id": "U01QKQ7KJ2J"
+    },
+    {
+        "client_msg_id": "b5a7a073-727c-453d-9157-e19f355652e2",
+        "type": "message",
+        "text": "의견이 다들 비슷하신것 같아서 12번 discuss해볼게요!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615987690.028300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "loQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "의견이 다들 비슷하신것 같아서 12번 discuss해볼게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fec6c230-e7f3-475c-97dc-4320ebf25906",
+        "type": "message",
+        "text": "모든 개발이 완료된 후에 Single delivery 형태로 이루어지는 것이 아니라 priority가 높은 순서대로 기존 기능에 requirements가 추가되는 형태로 delivery가 진행되므로 기존 기능을 사용하던 customer들의 feedback도 꾸준히 수용하고 수정할 수 있기 때문이라고 생각했습니다!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615987731.029100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bNvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "모든 개발이 완료된 후에 Single delivery 형태로 이루어지는 것이 아니라 priority가 높은 순서대로 기존 기능에 requirements가 추가되는 형태로 delivery가 진행되므로 기존 기능을 사용하던 customer들의 feedback도 꾸준히 수용하고 수정할 수 있기 때문이라고 생각했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74859087-81a6-4741-a3a4-1674d4ff594c",
+        "type": "message",
+        "text": "Because highest priority services are testes over and over again as each increment is delivered.",
+        "user": "U01QPF0KJ77",
+        "ts": "1615987734.029200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGr8B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because highest priority services are testes over and over again as each increment is delivered."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5802c715-c9e3-46c4-9ce5-7140055ff959",
+        "type": "message",
+        "text": "완제품만 출시하는 single delivery와 다르게, increment delivery는 유저의 니즈 를 분석, 우선순위가 높은 부분들부터 increment 단위로 출시해나간다. 시스템의 완 성도만큼이나 유저가 완제품을 받아보는 시기또한 중요한 요소임을 고려하면 이 방법은중요한부분부터우선적으로제공하여, 결과물에대한만족도를높일수있다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615987919.029400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "완제품만 출시하는 single delivery와 다르게, increment delivery는 유저의 니즈 를 분석, 우선순위가 높은 부분들부터 increment 단위로 출시해나간다. 시스템의 완 성도만큼이나 유저가 완제품을 받아보는 시기또한 중요한 요소임을 고려하면 이 방법은중요한부분부터우선적으로제공하여, 결과물에대한만족도를높일수있다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c41f5a9-8770-42e4-99bb-7dc90afef668",
+        "type": "message",
+        "text": "this is because customers can check what is incremented and how developers and teams do and make software. Early increments act as a prototype also. And they can also evaluate often. Since customers check the software often, risk of failure decreases. 요약하면, 유저들이 항상 개발자들이 어떻게 개발을 하고 있는지 진행사항을 계속 체크할 수 있고, 때문에 failure 위험이 감소한다고 생각합니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615988018.030200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53Ir+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is because customers can check what is incremented and how developers and teams do and make software. Early increments act as a prototype also. And they can also evaluate often. Since customers check the software often, risk of failure decreases. 요약하면, 유저들이 항상 개발자들이 어떻게 개발을 하고 있는지 진행사항을 계속 체크할 수 있고, 때문에 failure 위험이 감소한다고 생각합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615988018.030200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1615988279.032700",
+        "reply_users": [
+            "U01QKQ7KJ2J"
+        ],
+        "replies": [
+            {
+                "user": "U01QKQ7KJ2J",
+                "ts": "1615988279.032700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c01f22a6-2adf-4c7c-88f4-1dc069042cf3",
+        "type": "message",
+        "text": "다들 좋은 의견 감사합니다..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988182.030800",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ET7J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다들 좋은 의견 감사합니다.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8264628-d574-4c96-9786-b9ccc1c312ef",
+        "type": "message",
+        "text": "마지막으로 13번 얘기해볼게요!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988199.031400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DyWqs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "마지막으로 13번 얘기해볼게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3127319c-0e0b-495d-99a9-f477fdc2aaa9",
+        "type": "message",
+        "text": "저는\nTime과 cost가 inadequate하므로 모든 Input을 test하기에는 무리가 있다. 기존에 있는 비슷한 system의 input statistics를 분석하여 평균적으로 많은 분포를 차지하는 input을 testing sample로 채택할 수 있지 않을까... 이렇게 생각해봤습니다",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988237.032200",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgKM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는\nTime과 cost가 inadequate하므로 모든 Input을 test하기에는 무리가 있다. 기존에 있는 비슷한 system의 input statistics를 분석하여 평균적으로 많은 분포를 차지하는 input을 testing sample로 채택할 수 있지 않을까... 이렇게 생각해봤습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9be28216-ddc2-41cd-8a80-0f5a96c66265",
+        "type": "message",
+        "text": "Using statistical testing, we can measure reliability without total inspection rather, testing the software with just few samples (cases).",
+        "user": "U01QPF0KJ77",
+        "ts": "1615988239.032300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g8a0d9ac03d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a0d9ac03d4f89c841c0bdb795719f1b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "양유진",
+            "real_name": "양유진",
+            "display_name": "양유진",
+            "team": "T01QKFY23C6",
+            "name": "cneyang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REX+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Using statistical testing, we can measure reliability without total inspection rather, testing the software with just few samples (cases)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab4ec0ab-8c4f-4c50-8d8e-4ea2c61488e0",
+        "type": "message",
+        "text": "Using existing available and meaningful statistics, a test case can be made to verify that the system is correct, centered on the errors that can occur in the actual operation, thereby satisfying the customer's need in limited goods and time.",
+        "user": "U01QBGLB57Z",
+        "ts": "1615988253.032400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "g192a018e926",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/192a018e926d705d4aa743f3b12a902b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "정세린",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "serin0821",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CuHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Using existing available and meaningful statistics, a test case can be made to verify that the system is correct, centered on the errors that can occur in the actual operation, thereby satisfying the customer's need in limited goods and time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "유저가 실시간으로 요구사항의 진행에 대해서 알 수 있다.\n또한 가장 중요한 요소부터 시작하고 있기 때문에 핵심적인 기능을 포함하는 프로젝트일 가능성이 높아진다.\n또한 결론적으로 계속 받아지니까, 유연한 피드백이 좋기 때문에 유저 입장에서는 진행사항을 볼수 있고, 니즈와 가장 알맞는 내용을 받을 수 있기에 좋다.",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615988279.032700",
+        "thread_ts": "1615988018.030200",
+        "root": {
+            "client_msg_id": "4c41f5a9-8770-42e4-99bb-7dc90afef668",
+            "type": "message",
+            "text": "this is because customers can check what is incremented and how developers and teams do and make software. Early increments act as a prototype also. And they can also evaluate often. Since customers check the software often, risk of failure decreases. 요약하면, 유저들이 항상 개발자들이 어떻게 개발을 하고 있는지 진행사항을 계속 체크할 수 있고, 때문에 failure 위험이 감소한다고 생각합니다",
+            "user": "U01QBGBRH6K",
+            "ts": "1615988018.030200",
+            "team": "T01QKFY23C6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "53Ir+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "this is because customers can check what is incremented and how developers and teams do and make software. Early increments act as a prototype also. And they can also evaluate often. Since customers check the software often, risk of failure decreases. 요약하면, 유저들이 항상 개발자들이 어떻게 개발을 하고 있는지 진행사항을 계속 체크할 수 있고, 때문에 failure 위험이 감소한다고 생각합니다"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1615988018.030200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1615988279.032700",
+            "reply_users": [
+                "U01QKQ7KJ2J"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "유저가 실시간으로 요구사항의 진행에 대해서 알 수 있다.\n또한 가장 중요한 요소부터 시작하고 있기 때문에 핵심적인 기능을 포함하는 프로젝트일 가능성이 높아진다.\n또한 결론적으로 계속 받아지니까, 유연한 피드백이 좋기 때문에 유저 입장에서는 진행사항을 볼수 있고, 니즈와 가장 알맞는 내용을 받을 수 있기에 좋다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "21ce8649-32ab-4f97-b37e-7f90f4226d31"
+    },
+    {
+        "client_msg_id": "b66d17a8-4436-4bee-81a1-0439e7b939ec",
+        "type": "message",
+        "text": "유저들이 주로 사용할만한 가능한 시나리오를 사용해서 반복적으로 테스팅 하는것이 좋다고 생각했습니다",
+        "user": "U01QBGBRH6K",
+        "ts": "1615988294.033300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "192ae430285c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848495740964_192ae430285c8e72150d_72.png",
+            "first_name": "",
+            "real_name": "박정인",
+            "display_name": "박정인",
+            "team": "T01QKFY23C6",
+            "name": "dlskeyhund",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmxZ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "유저들이 주로 사용할만한 가능한 시나리오를 사용해서 반복적으로 테스팅 하는것이 좋다고 생각했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eda33c38-1304-4ad7-9729-f9f8967135a6",
+        "type": "message",
+        "text": "테스트를 적게 하면서 완벽하게 테스트하는건 불가능하다. 그러므로 좀 더 간결하며 믿을 수 있는 테스팅이 필요하다. 클린룸 SW개발 모델에서는 통계적 방 법을 테스팅에 활용하는데, 사용자가 소프트웨어를 활용하는 방식에 대해 확률분 포로 나타내고, 이로부터 통계적 방법을 이용해 유저와 유사한 테스트케이스를 얻 어내어 실행하면, 사용분포가 더 많은 부분에 대해 더욱 정밀히 검사가 가능할 것이 다.",
+        "user": "U01QYLF09FE",
+        "ts": "1615988317.033500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "3c89d77d339b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848799499124_3c89d77d339b4db89a48_72.png",
+            "first_name": "Cold",
+            "real_name": "Cold",
+            "display_name": "이성원",
+            "team": "T01QKFY23C6",
+            "name": "fermat494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "테스트를 적게 하면서 완벽하게 테스트하는건 불가능하다. 그러므로 좀 더 간결하며 믿을 수 있는 테스팅이 필요하다. 클린룸 SW개발 모델에서는 통계적 방 법을 테스팅에 활용하는데, 사용자가 소프트웨어를 활용하는 방식에 대해 확률분 포로 나타내고, 이로부터 통계적 방법을 이용해 유저와 유사한 테스트케이스를 얻 어내어 실행하면, 사용분포가 더 많은 부분에 대해 더욱 정밀히 검사가 가능할 것이 다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78a5e557-dec4-4f9f-adc7-1920fcecf8a6",
+        "type": "message",
+        "text": "혹시 추가적으로 공유해주실 의견 있으신가요??",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988461.035500",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oi57x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 추가적으로 공유해주실 의견 있으신가요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e50667d-7756-4731-94c6-db918b06d460",
+        "type": "message",
+        "text": "조사를 함으로써 통계적으로 많은 영향을 주는 부분에 대해서 주로 test를 많이 하고 통계적으로 적은 영향을 주는 부분에 대해서는 test를 줄이며,\n통계적으로 큰것들의 기준을 정해두고, 그 기준만 통과하면, test를 종료한다",
+        "user": "U01QKQ7KJ2J",
+        "ts": "1615988509.036400",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "cd51ffcd01da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1855256132561_cd51ffcd01da69a1c703_72.jpg",
+            "first_name": "Zi-man",
+            "real_name": "Zi-man",
+            "display_name": "김지훈",
+            "team": "T01QKFY23C6",
+            "name": "kim1jeahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDwJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "조사를 함으로써 통계적으로 많은 영향을 주는 부분에 대해서 주로 test를 많이 하고 통계적으로 적은 영향을 주는 부분에 대해서는 test를 줄이며,\n통계적으로 큰것들의 기준을 정해두고, 그 기준만 통과하면, test를 종료한다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f06a5026-9038-41a6-8ebd-9e084bc74abc",
+        "type": "message",
+        "text": "앗 감사합니다..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988563.037300",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앗 감사합니다.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4310af0c-96f8-4f42-8e19-ddeeebebd896",
+        "type": "message",
+        "text": "그럼 오늘의 discussion은 여기서.. 마치도록 할게요!!",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988635.037700",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8t5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 오늘의 discussion은 여기서.. 마치도록 할게요!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1daa609-6df8-4e9c-a1ba-9483bf628e9c",
+        "type": "message",
+        "text": "다들 고생많으셨습니다.. 이제 team-project 채널에서..만나요..",
+        "user": "U01QS9C5DUJ",
+        "ts": "1615988648.038100",
+        "team": "T01QKFY23C6",
+        "user_team": "T01QKFY23C6",
+        "source_team": "T01QKFY23C6",
+        "user_profile": {
+            "avatar_hash": "64b0cba4aea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1848485518228_64b0cba4aea02cd50f16_72.jpg",
+            "first_name": "",
+            "real_name": "안이은",
+            "display_name": "",
+            "team": "T01QKFY23C6",
+            "name": "dermond0917",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uyZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다들 고생많으셨습니다.. 이제 team-project 채널에서..만나요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
